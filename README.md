@@ -1,2 +1,2 @@
-# pasta
+# Pasta
 Simple HTMS/CSS Web Page Demo GitHub Upload Practice
